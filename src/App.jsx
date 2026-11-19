@@ -401,7 +401,7 @@ function App() {
             We believe fashion is more than what you wear.
             It is a way to express your personality, confidence
             and individuality. Discover stylish clothing for
-            men and women at AINE FASHION.
+            men and women at ALINE FASHION.
           </p>
         </section>
       </main>
@@ -466,7 +466,7 @@ function App() {
           <div>
             <h3>Contact</h3>
             <p>Gisozi, Gasabo, Kigali, Rwanda</p>
-            <p>+250 792 951 554</p>
+            <p>+250 792951554</p>
             <p>ainemutuyeyezu@gmail.com</p>
             <a href="https://wa.me/250792951554">
               WhatsApp us →
