@@ -190,7 +190,7 @@ function App() {
       .join("\n");
 
     const message =
-      `Hello AINE FASHION!\n\nI want to order:\n${order}\n\nTotal: ${formatPrice(total)}\n\nPlease help me complete my order.`;
+      `Hello ALINE FASHION!\n\nI want to order:\n${order}\n\nTotal: ${formatPrice(total)}\n\nPlease help me complete my order.`;
 
     window.open(
       `https://wa.me/250792955154?text=${encodeURIComponent(message)}`,
@@ -214,7 +214,7 @@ function App() {
 
       <header className="navbar">
         <a href="#home" className="logo">
-          AINE<span>FASHION.</span>
+          ALINE<span>FASHION.</span>
         </a>
 
         <nav>
@@ -377,7 +377,7 @@ function App() {
 
         <section className="fashion-banner">
           <div>
-            <span className="eyebrow">AINE FASHION</span>
+            <span className="eyebrow">ALINE FASHION</span>
 
             <h2>
               Simple pieces.
@@ -395,7 +395,7 @@ function App() {
 
         <section className="about" id="about">
           <span className="eyebrow">OUR STORY</span>
-          <h2>Welcome to AINE FASHION</h2>
+          <h2>Welcome to ALINE FASHION</h2>
 
           <p>
             We believe fashion is more than what you wear.
@@ -451,7 +451,7 @@ function App() {
         <div className="footer-grid">
           <div>
             <a href="#home" className="logo footer-logo">
-              AINE<span>FASHION.</span>
+              ALINE<span>FASHION.</span>
             </a>
             <p>Fashion made beautiful. Style made personal.</p>
           </div>
@@ -475,7 +475,7 @@ function App() {
         </div>
 
         <div className="copyright">
-          © {new Date().getFullYear()} AINE FASHION. All rights reserved.
+          © {new Date().getFullYear()} ALINE FASHION. All rights reserved.
         </div>
       </footer>
     </div>
