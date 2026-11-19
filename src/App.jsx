@@ -466,9 +466,9 @@ function App() {
           <div>
             <h3>Contact</h3>
             <p>Gisozi, Gasabo, Kigali, Rwanda</p>
-            <p>+250 792 955 154</p>
+            <p>+250 792 951 554</p>
             <p>ainemutuyeyezu@gmail.com</p>
-            <a href="https://wa.me/250792955154">
+            <a href="https://wa.me/250792951554">
               WhatsApp us →
             </a>
           </div>
